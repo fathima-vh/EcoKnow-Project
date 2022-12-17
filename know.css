@@ -1,0 +1,16 @@
+#details{
+    color: rgb(14, 11, 11);
+    font-size: 50px;
+    text-align: center;
+}
+body{
+    background-color: rgb(192, 241, 187);
+}
+.pop{
+    width: 700px;
+
+}
+.pp{
+    font-size:  20px; 
+    text-align: left;
+}
