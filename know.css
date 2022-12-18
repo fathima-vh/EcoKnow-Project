@@ -1,6 +1,6 @@
 #details{
     color: rgb(14, 11, 11);
-    font-size: 50px;
+    font-size: 40px;
     text-align: center;
 }
 body{
@@ -13,4 +13,8 @@ body{
 .pp{
     font-size:  20px; 
     text-align: left;
+}
+.alternative{
+    width: 100px;
+    height: 100px;
 }
